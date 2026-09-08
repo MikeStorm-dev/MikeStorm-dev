@@ -107,26 +107,24 @@ Projects focused on building data pipelines, analytics solutions and cloud archi
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=MikeStorm-dev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"
-    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=MikeStorm-dev&show_icons=true&theme=tokyonight&hide_border=true"
     alt="MikeStorm-dev GitHub Stats"
   />
-
+  
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikeStorm-dev&layout=compact&hide_border=true&langs_count=8"
-    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikeStorm-dev&layout=compact&theme=tokyonight&hide_border=true"
     alt="Most Used Languages"
   />
 </p>
 
 ---
 
-# 🔥 Contribution Streak
+# 🔥 GitHub Streak
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=MikeStorm-dev&hide_border=true"
-    alt="GitHub Contribution Streak"
+    src="https://streak-stats.demolab.com?user=MikeStorm-dev&theme=tokyonight-duo&hide_border=true"
+    alt="GitHub Streak"
   />
 </p>
 
@@ -136,27 +134,27 @@ Projects focused on building data pipelines, analytics solutions and cloud archi
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=MikeStorm-dev&theme=flat&no-frame=true&margin-w=10&column=7"
+    src="https://github-profile-trophy.vercel.app/?username=MikeStorm-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&column=7"
     alt="GitHub Trophies"
   />
 </p>
 
 ---
 
-# 👥 GitHub Followers
+# 👥 GitHub Community
 
 <p align="center">
-  <a href="https://github.com/MikeStorm-dev">
-    <img
-      src="https://img.shields.io/github/followers/MikeStorm-dev?style=for-the-badge&logo=github&logoColor=white&label=GitHub%20Followers"
-      alt="GitHub Followers"
-    />
-  </a>
 
-  <img
-    src="https://img.shields.io/github/stars/MikeStorm-dev?style=for-the-badge&logo=github&logoColor=white&label=Total%20Stars"
-    alt="GitHub Stars"
-  />
+<img
+  src="https://img.shields.io/github/followers/MikeStorm-dev?style=for-the-badge&logo=github&logoColor=white&label=Followers"
+  alt="GitHub Followers"
+/>
+
+<img
+  src="https://img.shields.io/github/stars/MikeStorm-dev?style=for-the-badge&logo=github&logoColor=white&label=Total%20Stars"
+  alt="GitHub Stars"
+/>
+
 </p>
 
 ---
@@ -207,8 +205,8 @@ Projects focused on building data pipelines, analytics solutions and cloud archi
 
 <a href="https://github.com/MikeStorm-dev">
   <img
-    src="https://img.shields.io/github/followers/MikeStorm-dev?style=for-the-badge&logo=github&logoColor=white&label=Followers"
-    alt="GitHub Followers"
+    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
   />
 </a>
 
@@ -221,8 +219,6 @@ Projects focused on building data pipelines, analytics solutions and cloud archi
 > 🚧 **Coming soon**
 
 <!--
-When you have a website, uncomment this section:
-
 <p align="center">
   <a href="YOUR_WEBSITE_URL">
     <img
@@ -238,22 +234,10 @@ When you have a website, uncomment this section:
 # 🐍 Contribution Snake
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/MikeStorm-dev/MikeStorm-dev/output/github-contribution-grid-snake-dark.svg"
-    />
-
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/MikeStorm-dev/MikeStorm-dev/output/github-contribution-grid-snake.svg"
-    />
-
-    <img
-      alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/MikeStorm-dev/MikeStorm-dev/output/github-contribution-grid-snake.svg"
-    />
-  </picture>
+  <img
+    src="https://raw.githubusercontent.com/MikeStorm-dev/MikeStorm-dev/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
 </p>
 
 ---
