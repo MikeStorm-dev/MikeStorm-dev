@@ -136,7 +136,7 @@ Projects focused on building data pipelines, analytics solutions and cloud archi
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=MikeStorm-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&column=7"
+    src="https://github-profile-trophy-liard-delta.vercel.app/?username=MikeStorm-dev&theme=onedark&no-frame=true&no-bg=true&margin-w=5&column=7"
     alt="GitHub Trophies"
   />
 </p>
@@ -152,9 +152,11 @@ Projects focused on building data pipelines, analytics solutions and cloud archi
   alt="GitHub Followers"
 />
 
+&nbsp;
+
 <img
   src="https://img.shields.io/github/stars/MikeStorm-dev?style=for-the-badge&logo=github&logoColor=white&label=Total%20Stars"
-  alt="GitHub Stars"
+  alt="Total GitHub Stars"
 />
 
 </p>
@@ -237,7 +239,7 @@ Projects focused on building data pipelines, analytics solutions and cloud archi
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/MikeStorm-dev/MikeStorm-dev/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/MikeStorm-dev/MikeStorm-dev/output/github-contribution-grid-snake-dark.svg"
     alt="GitHub Contribution Snake"
   />
 </p>
