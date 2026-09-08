@@ -4,11 +4,9 @@
 
 > **From Zero to Hero.**
 
-I'm a **Systems and Computing Engineer** passionate about software development, data analysis and artificial intelligence.
+I'm a **Systems and Computing Engineer** passionate about software development, data analysis, artificial intelligence and cloud technologies.
 
-I enjoy transforming ideas and problems into practical technological solutions, combining **software engineering, data and AI** to build useful and scalable projects.
-
-Currently, I'm focused on strengthening my experience as a **Backend Developer and Data Analyst**, while developing personal and freelance projects that allow me to keep learning and experimenting with new technologies.
+I enjoy transforming ideas and real-world problems into practical technological solutions, combining **software engineering, data and AI** to build useful and scalable projects.
 
 📍 **Sogamoso, Colombia 🇨🇴**
 
@@ -16,11 +14,11 @@ Currently, I'm focused on strengthening my experience as a **Backend Developer a
 
 ## 🧑‍💻 About Me
 
-- 🎓 Systems and Computing Engineer
-- 💻 Backend Developer
-- 📊 Data Analyst
-- 🤖 Interested in Artificial Intelligence & Machine Learning
-- ☁️ Exploring Cloud & Data Engineering
+- 🎓 **Systems and Computing Engineer**
+- 💻 **Backend Developer**
+- 📊 **Data Analyst**
+- 🤖 Interested in **Artificial Intelligence & Machine Learning**
+- ☁️ Exploring **Cloud & Data Engineering**
 - 🔎 Interested in solving real-world problems through technology
 - 🚀 Building personal and freelance projects
 - 🧩 Passionate about problem solving and continuous learning
@@ -31,29 +29,29 @@ Currently, I'm focused on strengthening my experience as a **Backend Developer a
 
 ### 👨‍💻 Programming Languages
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=java,python,javascript,cpp,cs,php" />
 </p>
 
 ### 🌐 Backend & Web Development
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=spring,nodejs,react,angular,graphql,html,css" />
 </p>
 
 ### 📊 Data & Analytics
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python,mysql,mongodb" />
 </p>
 
-**Data & Machine Learning:**
+**Data & Machine Learning**
 
 `Pandas` · `NumPy` · `Scikit-learn` · `Matplotlib` · `Plotly` · `SQL` · `Machine Learning`
 
 ### ☁️ Cloud & Data Engineering
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=aws" />
 </p>
 
@@ -61,7 +59,7 @@ Currently, I'm focused on strengthening my experience as a **Backend Developer a
 
 ### 🔧 Tools & Platforms
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,docker" />
 </p>
 
@@ -69,75 +67,101 @@ Currently, I'm focused on strengthening my experience as a **Backend Developer a
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🏥 HealthLife AI Auditor
+## 🏥 HealthLife AI Auditor
 
 **HealthLife AI Auditor** is a digital medical auditing solution designed to support medical auditing processes through artificial intelligence, machine learning and automated analysis.
 
-**Technologies:**  
+**Technologies**
+
 `Python` · `Machine Learning` · `XGBoost` · `NLP` · `Sentence Transformers` · `AI`
 
 🔗 [View project](https://github.com/MikeStorm-dev/healthlife-ai-auditor)
 
 ---
 
-### 📊 Predictive Sales & Inventory Analytics
+## 📊 Predictive Sales & Inventory Analytics
 
 A predictive analytics project focused on understanding **sales behavior, seasonality, inventory patterns and stockout risks** using large-scale datasets.
 
 The project combines data analysis, machine learning and interactive visualization to support data-driven decision making.
 
-**Technologies:**  
+**Technologies**
+
 `Python` · `Pandas` · `Scikit-learn` · `XGBoost` · `Random Forest` · `Plotly` · `SQL`
 
 ---
 
-### ☁️ Cloud & Data Projects
+## ☁️ Cloud & Data Projects
 
 Projects focused on building data pipelines, analytics solutions and cloud architectures using AWS services.
 
-**Technologies:**  
+**Technologies**
+
 `AWS` · `S3` · `Glue` · `Lambda` · `Athena` · `DataZone` · `QuickSight`
 
 ---
 
-## 📈 GitHub Statistics
+# 📈 GitHub Statistics
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" 
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=MikeStorm-dev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"
     height="180"
+    alt="MikeStorm-dev GitHub Stats"
   />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" 
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikeStorm-dev&layout=compact&hide_border=true&langs_count=8"
     height="180"
+    alt="Most Used Languages"
   />
 </p>
 
 ---
 
-## 🔥 Contribution Streak
+# 🔥 Contribution Streak
 
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true" 
+  <img
+    src="https://streak-stats.demolab.com?user=MikeStorm-dev&hide_border=true"
+    alt="GitHub Contribution Streak"
   />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=flat&no-frame=true&margin-w=10" 
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=MikeStorm-dev&theme=flat&no-frame=true&margin-w=10&column=7"
+    alt="GitHub Trophies"
   />
 </p>
 
 ---
 
-## 📊 Development Focus
+# 👥 GitHub Followers
+
+<p align="center">
+  <a href="https://github.com/MikeStorm-dev">
+    <img
+      src="https://img.shields.io/github/followers/MikeStorm-dev?style=for-the-badge&logo=github&logoColor=white&label=GitHub%20Followers"
+      alt="GitHub Followers"
+    />
+  </a>
+
+  <img
+    src="https://img.shields.io/github/stars/MikeStorm-dev?style=for-the-badge&logo=github&logoColor=white&label=Total%20Stars"
+    alt="GitHub Stars"
+  />
+</p>
+
+---
+
+# 📊 Development Focus
 
 | Area | Focus |
 |---|---|
@@ -151,7 +175,7 @@ Projects focused on building data pipelines, analytics solutions and cloud archi
 
 ---
 
-## 📚 Currently Learning
+# 📚 Currently Learning
 
 - 🤖 Artificial Intelligence & Generative AI
 - 📊 Advanced Data Analytics
@@ -163,25 +187,28 @@ Projects focused on building data pipelines, analytics solutions and cloud archi
 
 ---
 
-## 📫 Let's Connect
+# 📫 Let's Connect
 
 <p align="center">
 
-<a href="mailto:YOUR_EMAIL">
-  <img 
-    src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
+<a href="mailto:miguel.alfonso1702@gmail.com">
+  <img
+    src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email"
   />
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
-  <img 
-    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
+<a href="https://www.linkedin.com/in/mike--storm/">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
   />
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img 
-    src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&logo=github&label=Followers" 
+<a href="https://github.com/MikeStorm-dev">
+  <img
+    src="https://img.shields.io/github/followers/MikeStorm-dev?style=for-the-badge&logo=github&logoColor=white&label=Followers"
+    alt="GitHub Followers"
   />
 </a>
 
@@ -189,36 +216,49 @@ Projects focused on building data pipelines, analytics solutions and cloud archi
 
 ---
 
-## 🌐 Personal Website
+# 🌐 Personal Website
 
 > 🚧 **Coming soon**
 
-<!-- Uncomment when you have a website
+<!--
+When you have a website, uncomment this section:
 
 <p align="center">
   <a href="YOUR_WEBSITE_URL">
-    <img 
-      src="https://img.shields.io/badge/Visit%20my%20website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" 
+    <img
+      src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white"
+      alt="Personal Website"
     />
   </a>
 </p>
-
 -->
 
 ---
 
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake
 
 <p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" 
-    alt="GitHub Contribution Snake"
-  />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/MikeStorm-dev/MikeStorm-dev/output/github-contribution-grid-snake-dark.svg"
+    />
+
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/MikeStorm-dev/MikeStorm-dev/output/github-contribution-grid-snake.svg"
+    />
+
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/MikeStorm-dev/MikeStorm-dev/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
 </p>
 
 ---
 
-## 💡 Philosophy
+# 💡 Philosophy
 
 > **"From Zero to Hero."**
 
