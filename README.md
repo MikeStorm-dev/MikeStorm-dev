@@ -1,5 +1,14 @@
 # 👋 Hi, I'm Miguel or simply Mike
 
+<p align="center">
+  <img
+    src="./profile/banner.png"
+    alt="Mike Storm Banner"
+    width="100%"
+  />
+</p>
+
+
 ### 💻 Backend Developer | 📊 Data Analyst | 🚀 Systems & Computing Engineer
 
 > **From Zero to Hero.**
