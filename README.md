@@ -107,12 +107,14 @@ Projects focused on building data pipelines, analytics solutions and cloud archi
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=MikeStorm-dev&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="MikeStorm-dev GitHub Stats"
+    src="./profile/stats.svg"
+    alt="MikeStorm-dev GitHub Statistics"
   />
-  
+</p>
+
+<p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikeStorm-dev&layout=compact&theme=tokyonight&hide_border=true"
+    src="./profile/top-langs.svg"
     alt="Most Used Languages"
   />
 </p>
