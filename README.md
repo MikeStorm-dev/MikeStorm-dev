@@ -157,9 +157,7 @@ Projects focused on building data pipelines, analytics solutions and cloud archi
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MikeStorm-dev&theme=tokyonight" alt="GitHub Streak" /></a>
-  />
 </p>
 
 ---
