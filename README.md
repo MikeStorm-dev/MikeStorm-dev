@@ -2,7 +2,7 @@
 
 <p align="center">
   <img
-    src="./profile/bannerV2.png"
+    src="./profile/bannerV3.png"
     alt="Mike Storm Banner"
     width="100%"
   />
